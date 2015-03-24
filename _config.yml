@@ -17,7 +17,7 @@ author:
   name:           'Felipe Klein Zigmundo'
   url:            https://twitter.com/felipekzig
 
-paginate:         0
+paginate:         1
 
 # Custom vars
 version:          0.1.0
